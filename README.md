@@ -90,11 +90,14 @@ public class MainActivity extends AppCompatActivity {
 </br>
 </br>
 </br>
+
 ## OUTPUT:
 ![O1 (2)](https://user-images.githubusercontent.com/77089743/167108866-a0a74547-5cb7-4e2b-852d-8a1ad2053580.jpeg)
+
 </br>
 </br>
 </br>
+
 ![O2 (2)](https://user-images.githubusercontent.com/77089743/167108885-1857eaa9-d79f-4c54-bf95-84b80ad0cfb7.jpeg)
 
 ## RESULT
