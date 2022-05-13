@@ -1,5 +1,4 @@
-# Ex.No:4 Design an android application Send SMS using Intent.
-
+# <p align="center"> Ex.No-4 Design an android application Send SMS using Intent</P>
 
 ## AIM:
 
@@ -57,7 +56,8 @@ public class MainActivity extends AppCompatActivity {
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent=new Intent(Intent.ACTION_VIEW, Uri.fromParts("sms","9994934716",null));
+                Intent intent=new Intent(Intent.ACTION_VIEW, Uri.fromParts("sms",
+                "9994934716",null));
                 intent.putExtra("sms_body","SMS using Intent");
                 startActivity(intent);
             }
