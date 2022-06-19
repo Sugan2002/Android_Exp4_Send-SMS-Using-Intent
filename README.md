@@ -1,3 +1,4 @@
+## Date-19/04/2022
 # <p align="center"> Ex.No-4 Design an android application Send SMS using Intent</P>
 
 ## AIM:
@@ -99,6 +100,10 @@ public class MainActivity extends AppCompatActivity {
 </br>
 
 ![O2 (2)](https://user-images.githubusercontent.com/77089743/167108885-1857eaa9-d79f-4c54-bf95-84b80ad0cfb7.jpeg)
+
+</br>
+</br>
+</br>
 
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
