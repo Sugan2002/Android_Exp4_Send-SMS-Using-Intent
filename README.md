@@ -1,6 +1,6 @@
 ## EX NO : 04 
 ## Date  : 19/04/2022
-# <p align="center"> Ex.No-4 Design an android application Send SMS using Intent</P>
+# <p align="center"> Design an android application Send SMS using Intent</P>
 
 ## AIM:
 
